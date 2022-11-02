@@ -1,0 +1,33 @@
+body {
+    margin: 15px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: rgba(169, 169, 169, 0.315);
+}
+
+.name_header {
+    color: rgba(8, 8, 8, 0.623);
+    font-family: 'Times New Roman', Times, serif, Courier, monospace;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    height: 457px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 55px;
+    background-color: rgba(169, 169, 169, 0.315);
+}
